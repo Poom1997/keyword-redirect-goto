@@ -1,6 +1,8 @@
-## Keyword Redirect Chrome Extension
+## Keyword Redirect Chrome Extension (Modified)
 
-**Chrome extension [link ](https://chrome.google.com/webstore/detail/keyword-redirect/okmndadncjgigahlgcbgenaoecagebhh)**
+### Forked and edited from repository [link ](https://github.com/sasikanth513/keyword-redirect)
+
+**Original Chrome extension [link ](https://chrome.google.com/webstore/detail/keyword-redirect/okmndadncjgigahlgcbgenaoecagebhh)**
 
 ### What are the use cases?
 
@@ -14,4 +16,5 @@
 
 ### Source code
 
-Developed using vue.js with single component, should be easy to understand.
+Developed by Sasikanth (sasikanth513) using vue.js with single component, should be easy to understand.
+Edited by Bhurinuth (Poom1997) to change redirection keyword from 'go' to 'goto'

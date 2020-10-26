@@ -8,14 +8,8 @@ export const defaultGroups = [
 
 export const defaultShortcuts = [
   {
-    keyword: "app",
-    url:
-      "https://chrome.google.com/webstore/detail/keyword-redirect/okmndadncjgigahlgcbgenaoecagebhh/",
-    group: "default"
-  },
-  {
-    keyword: "dev",
-    url: "https://twitter.com/sasi513",
+    keyword: "google",
+    url: "https://google.com",
     group: "default"
   }
 ];

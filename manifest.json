@@ -1,13 +1,13 @@
 {
-  "name": "Keyword Redirect",
-  "description": "Shortcuts to your long url's. Type 'go' and a keyword into the address bar to open url.",
-  "version": "0.5",
+  "name": "Keyword Redirect GoTo",
+  "description": "Shortcuts to your long url's. Type 'goto' and a keyword into the address bar to open url.",
+  "version": "1.0",
   "options_page": "src/options/options.html",
   "background": {
     "page": "src/background/background.html"
   },
   "permissions": ["storage", "tabs"],
-  "omnibox": { "keyword": "go" },
+  "omnibox": { "keyword": "goto/" },
   "manifest_version": 2,
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
   "browser_action": {
